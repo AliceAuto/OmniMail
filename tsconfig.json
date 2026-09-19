@@ -20,3 +20,7 @@
   "include": ["src", "extension/src", "vite.config.ts", "vite.extension.config.ts", "vitest.worker.config.ts"],
   "exclude": ["email-worker"]
 }
+
+
+
+
